@@ -24,6 +24,7 @@ def clear_images():
         os.remove(image)
     print("clean folder ended")
 
+
 while True:
     status = 0
     check, frame = video.read()
