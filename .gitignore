@@ -1,2 +1,9 @@
 .venv
 .idea
+__pycache__/
+*.pyc
+.idea/
+venv/
+env/
+*.log
+images/  # Exclude captured images

@@ -1,5 +1,4 @@
-import glob
-# from curses.textpad import rectangle
+
 
 import cv2
 import time
